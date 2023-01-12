@@ -2,10 +2,10 @@
 
 ## I'm a Student, Son, Developer, and Self-learner!!
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Javascript & php
+- 🔭 I’m currently working on JAVA.
+- 🌱 I’m currently learning Full Stack Java.
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - - ⚡ Fun fact: I love challenges.
 
 <h3 align="left">Connect with me:</h3>
