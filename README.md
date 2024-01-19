@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin Kumar 👋
 
-## I'm a Student, Son, Developer, and Self-learner!!
+## I'm a Graduate, Son, Developer, and Self-learner!!
 
 - 🔭 I’m currently working on JAVA.
 - 🌱 I’m currently learning Full Stack Java.
