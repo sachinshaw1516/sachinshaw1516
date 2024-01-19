@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on JAVA.
 - 🌱 I’m currently learning Full Stack Java.
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - - ⚡ Fun fact: I love challenges.
 
 <h3 align="left">Connect with me:</h3>
