@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachin Kumar 👋
 
-## I'm a Graduate, Son, Developer, and Self-learner!!
+## I'm a Graduate, Developer, and Self-learner!!
 
 - 🔭 I’m currently working on JAVA.
 - 🌱 I’m currently learning Full Stack Java.
@@ -13,6 +13,7 @@
 <a href="https://twitter.com/sachinshaw1516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinshaw1516" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachin-shaw-9a388a192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-shaw-9a388a192" height="30" width="40" /></a>
 <a href="https://instagram.com/m_sachinshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_sachinshaw" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/sachinkr1516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_sachinshaw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
